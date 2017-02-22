@@ -10,4 +10,4 @@ Utilizando el fichero espacios-naturales.xml, crea distintos programas en python
 
 4) Introducir por teclado un espacio natural, y mostrar los espacios naturales que hay en la provincia de ese espacio natural.
 
-5) Pedir un espacio natural, y mostrar las cordenadas.
+5) Pedir un espacio natural, y mostrar en openstreetmap dicho espacio natural.
