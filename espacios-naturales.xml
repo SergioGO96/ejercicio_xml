@@ -1,0 +1,2227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rows num="88">
+    <row num="1">
+        <documentname>Bahia de Gorliz y Plentzia</documentname>
+        <documentdescription>En la desembocadura de la ria, se forma una preciosa bahia natural en la que se encuentran las pl...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>; 4800770003</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>PLENTZIA</municipality>
+        <municipalitycode>480043; 480077</municipalitycode>
+        <naturetype>0010</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.4131533826081,-2.9456233978271484</latitudelongitude>
+        <latwgs84>43.4131533826081</latwgs84>
+        <lonwgs84>-2.9456233978271484</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480077</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/bahia-de-gorliz-y-plentzia/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000087781_g2_rec_turismo/es_87781/87781-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000087781_g2_rec_turismo/es_87781/data/87781_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000087781_g2_rec_turismo/r01Index/0000087781_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000087781_g2_rec_turismo/opendata/0000087781_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="2">
+        <documentname>Bahia de Txingudi y Hondarribia</documentname>
+        <documentdescription>Hondarribia, Irun y Hendaia, se asoman a la bahia de Txingudi, en la desembocadura del rio Bidaso...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000360004</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>HONDARRIBIA</municipality>
+        <municipalitycode>200036</municipalitycode>
+        <naturetype>0010</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.367122441110695,-1.7902565002441406</latitudelongitude>
+        <latwgs84>43.367122441110695</latwgs84>
+        <lonwgs84>-1.7902565002441406</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200036</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/bahia-de-txingudi-y-hondarribia/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000088181_g2_rec_turismo/es_88181/88181-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000088181_g2_rec_turismo/es_88181/data/88181_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000088181_g2_rec_turismo/r01Index/0000088181_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000088181_g2_rec_turismo/opendata/0000088181_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="3">
+        <documentname>Biotopo Protegido Complejo Lagunar de Laguardia</documentname>
+        <documentdescription>Este Biotopo Protegido se encuentra en pleno corazon de Rioja Alavesa, en las proximidades del am...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <importance>2</importance>
+        <marks>Rioja Alavesa</marks>
+        <municipality>LAGUARDIA</municipality>
+        <municipalitycode>010031</municipalitycode>
+        <naturetype>Biotopos protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.5527009241577,-2.57208824157715</latitudelongitude>
+        <latwgs84>42.5527009241577</latwgs84>
+        <lonwgs84>-2.57208824157715</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010031</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/biotopo-protegido-complejo-lagunar-de-laguardia/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000004827_g2_rec_turismo/es_4827/4827-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004827_g2_rec_turismo/es_4827/data/4827_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004827_g2_rec_turismo/r01Index/0000004827_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004827_g2_rec_turismo/opendata/0000004827_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="4">
+        <documentname>Biotopo Protegido de Itxina</documentname>
+        <documentdescription>El macizo de Itxina (571 ha) se encuentra en el interior del Parque Natural de Gorbeia y constitu...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>OROZKO</municipality>
+        <municipalitycode>480075</municipalitycode>
+        <naturetype>Biotopos protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.0718974042931,-2.8070068359375</latitudelongitude>
+        <latwgs84>43.0718974042931</latwgs84>
+        <lonwgs84>-2.8070068359375</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480075</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/biotopo-protegido-de-itxina/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000004910_g2_rec_turismo/es_4910/4910-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004910_g2_rec_turismo/es_4910/data/4910_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004910_g2_rec_turismo/r01Index/0000004910_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004910_g2_rec_turismo/opendata/0000004910_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="5">
+        <documentname>Biotopo Protegido de Innurritza</documentname>
+        <documentdescription>Situado en las inmediaciones del casco urbano de Zarautz, el Biotopo Protegido de Innurritza const...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000790004</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ZARAUTZ</municipality>
+        <municipalitycode>200079</municipalitycode>
+        <naturetype>Biotopos protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.2803679053378,-2.1715665423278097</latitudelongitude>
+        <latwgs84>43.2803679053378</latwgs84>
+        <lonwgs84>-2.1715665423278097</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200079</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/biotopo-protegido-de-inurritza/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000004912_g2_rec_turismo/es_4912/4912-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004912_g2_rec_turismo/es_4912/data/4912_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004912_g2_rec_turismo/r01Index/0000004912_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004912_g2_rec_turismo/opendata/0000004912_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="6">
+        <documentname>Biotopo Protegido de Leitzaran</documentname>
+        <documentdescription>No estamos acostumbrados a ver en Gipuzkoa o Bizkaia rios de cierta entidad y de aguas limpias en...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>VILLABONA</municipality>
+        <municipalitycode>200009; 200022; 200031; 200075</municipalitycode>
+        <naturetype>Biotopos protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.220501721505755,-2.0170211791992188</latitudelongitude>
+        <latwgs84>43.220501721505755</latwgs84>
+        <lonwgs84>-2.0170211791992188</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200075</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/biotopo-protegido-de-leitzaran/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000010105_g2_rec_turismo/es_10105/10105-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000010105_g2_rec_turismo/es_10105/data/10105_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000010105_g2_rec_turismo/r01Index/0000010105_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000010105_g2_rec_turismo/opendata/0000010105_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="8">
+        <documentname>Biotopo Protegido de San Juan de Gaztelugatxe</documentname>
+        <documentdescription>El Biotopo Protegido de Gaztelugatxe (158 ha) abarca un tramo de la costa vizcaina comprendido en...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>BERMEO</municipality>
+        <municipalitycode>480012; 480017</municipalitycode>
+        <naturetype>Biotopos protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.425995886628485,-2.72186279296875</latitudelongitude>
+        <latwgs84>43.425995886628485</latwgs84>
+        <lonwgs84>-2.72186279296875</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480017</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/biotopo-protegido-de-san-juan-de-gaztelugatxe/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000001946_g2_rec_turismo/es_1946/1946-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001946_g2_rec_turismo/es_1946/data/1946_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001946_g2_rec_turismo/r01Index/0000001946_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001946_g2_rec_turismo/opendata/0000001946_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="9">
+        <documentname>Embalse de Maronno</documentname>
+        <documentdescription>El embalse de Maronno, enclavado en la localidad del mismo nombre, perteneciente al municipio de A...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100100013</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>AYALA/AIARA</municipality>
+        <municipalitycode>010010</municipalitycode>
+        <naturetype>Pantanos</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.0468126377076,-3.05986404418945</latitudelongitude>
+        <latwgs84>43.0468126377076</latwgs84>
+        <lonwgs84>-3.05986404418945</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010010</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/embalse-de-marono/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000008882_g1_rec_turismo/es_8882/8882-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008882_g1_rec_turismo/es_8882/data/8882_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008882_g1_rec_turismo/r01Index/0000008882_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008882_g1_rec_turismo/opendata/0000008882_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="10">
+        <documentname>Embalse de Ullibarri Gamboa</documentname>
+        <documentdescription>A pocos kilometros de Vitoria-Gasteiz, el embalse de Ullibarri-Gamboa es, a pesar de su origen ar...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100080010</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ARRAZUA-UBARRUNDIA</municipality>
+        <municipalitycode>010008</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.90920038766885,-2.5381746778075467</latitudelongitude>
+        <latwgs84>42.90920038766885</latwgs84>
+        <lonwgs84>-2.5381746778075467</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010008</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-en-ullibarri-gamboa/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082841_g2_rec_turismo/es_82841/82841-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082841_g2_rec_turismo/es_82841/data/82841_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082841_g2_rec_turismo/r01Index/0000082841_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082841_g2_rec_turismo/opendata/0000082841_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="11">
+        <documentname>Embalse de Ullibarri-Gamboa</documentname>
+        <documentdescription>Emplazado en el municipio alaves de Arrazua-Ubarrundia, el embalse de Ullibarri-Gamboa ademas de ...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ARRAZUA-UBARRUNDIA</municipality>
+        <municipalitycode>010008</municipalitycode>
+        <naturetype>Pantanos</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>42.9260115266427,-2.56977081298828</latitudelongitude>
+        <latwgs84>42.9260115266427</latwgs84>
+        <lonwgs84>-2.56977081298828</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010008</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/embalse-de-ullibarri-gamboa/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000008805_g1_rec_turismo/es_8805/8805-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008805_g1_rec_turismo/es_8805/data/8805_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008805_g1_rec_turismo/r01Index/0000008805_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008805_g1_rec_turismo/opendata/0000008805_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="12">
+        <documentname>Embalse de Urkulu</documentname>
+        <documentdescription>El embalse de Urkulu se halla en el interior del territorio historico de Gipuzkoa, a pocos kilome...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ARETXABALETA</municipality>
+        <municipalitycode>200013</municipalitycode>
+        <naturetype>Pantanos</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.019567,-2.476983</latitudelongitude>
+        <latwgs84>43.019567</latwgs84>
+        <lonwgs84>-2.476983</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200013</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/embalse-de-urkulu/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000005342_g1_rec_turismo/es_5342/5342-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005342_g1_rec_turismo/es_5342/data/5342_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005342_g1_rec_turismo/r01Index/0000005342_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005342_g1_rec_turismo/opendata/0000005342_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="13">
+        <documentname>Embalse de Urrunaga</documentname>
+        <documentdescription>El embalse de Urrunaga esta ubicado a caballo entre alava y Bizkaia, rodeado de un espectacular p...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA; BIZKAIA</historicterritory>
+        <historicterritorycode>01; 48</historicterritorycode>
+        <localitycode>0100580001; 0100580005; 0100580006; 4800720002</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>OTXANDIO</municipality>
+        <municipalitycode>010058; 480072</municipalitycode>
+        <naturetype>Pantanos</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>42.9782161822329,-2.64959335327148</latitudelongitude>
+        <latwgs84>42.9782161822329</latwgs84>
+        <lonwgs84>-2.64959335327148</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480072</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/embalse-de-urrunaga/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000008842_g1_rec_turismo/es_8842/8842-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008842_g1_rec_turismo/es_8842/data/8842_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008842_g1_rec_turismo/r01Index/0000008842_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008842_g1_rec_turismo/opendata/0000008842_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="14">
+        <documentname>Geoparque de la Costa Vasca</documentname>
+        <documentdescription>El Geoparque de la Costa Vasca abarca una extension de casi 90 kilometros cuadrados perteneciente...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ZUMAIA</municipality>
+        <municipalitycode>200029; 200056; 200081</municipalitycode>
+        <naturetype>Geoparque</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.30219564849081,-2.25494384765625</latitudelongitude>
+        <latwgs84>43.30219564849081</latwgs84>
+        <lonwgs84>-2.25494384765625</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200081</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/geoparque-de-la-costa-vasca/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000041982_g2_rec_turismo/es_41982/41982-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000041982_g2_rec_turismo/es_41982/data/41982_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000041982_g2_rec_turismo/r01Index/0000041982_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000041982_g2_rec_turismo/opendata/0000041982_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="15">
+        <documentname>Izki</documentname>
+        <documentdescription>Izki es un area eminentemente forestal que alberga una de las formaciones mas representativas de ...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100370007</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ARRAIA-MAEZTU</municipality>
+        <municipalitycode>010037</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.69858970532345,-2.4330724600494023</latitudelongitude>
+        <latwgs84>42.69858970532345</latwgs84>
+        <lonwgs84>-2.4330724600494023</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010037</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-en-el-parque-natural-de-izki/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082861_g2_rec_turismo/es_82861/82861-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082861_g2_rec_turismo/es_82861/data/82861_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082861_g2_rec_turismo/r01Index/0000082861_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082861_g2_rec_turismo/opendata/0000082861_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="16">
+        <documentname>La Arboleda</documentname>
+        <documentdescription>Convertido hoy en dia en espacio de ocio y esparcimiento, La Arboleda fue un pueblo minero donde ...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800800001</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>VALLE DE TRaPAGA-TRAPAGARAN</municipality>
+        <municipalitycode>480080</municipalitycode>
+        <naturetype>Pantanos</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.284928,-3.05386</latitudelongitude>
+        <latwgs84>43.284928</latwgs84>
+        <lonwgs84>-3.05386</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480080</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/la-arboleda/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000009596_g1_rec_turismo/es_9596/9596-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009596_g1_rec_turismo/es_9596/data/9596_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009596_g1_rec_turismo/r01Index/0000009596_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009596_g1_rec_turismo/opendata/0000009596_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="17">
+        <documentname>Lagunas de Laguardia</documentname>
+        <documentdescription>El enclave de las Lagunas de Laguardia corresponde a cuatro humedales localizados en la proximida...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100310002</localitycode>
+        <marks>Rioja Alavesa</marks>
+        <municipality>LAGUARDIA</municipality>
+        <municipalitycode>010031</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.55328313816358,-2.5850648000000547</latitudelongitude>
+        <latwgs84>42.55328313816358</latwgs84>
+        <lonwgs84>-2.5850648000000547</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010031</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-en-las-lagunas-de-laguardia/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082881_g2_rec_turismo/es_82881/82881-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082881_g2_rec_turismo/es_82881/data/82881_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082881_g2_rec_turismo/r01Index/0000082881_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082881_g2_rec_turismo/opendata/0000082881_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="18">
+        <documentname>La Rasa Mareal y los acantilados del Flysch</documentname>
+        <documentdescription>La franja costera situada en el sector occidental del litoral guipuzcoano entre las localidades d...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <importance>2</importance>
+        <marks>Costa Vasca</marks>
+        <municipality>ZUMAIA</municipality>
+        <municipalitycode>200029; 200081</municipalitycode>
+        <naturetype>Biotopos protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.29794801740647,-2.3527908325195312</latitudelongitude>
+        <latwgs84>43.29794801740647</latwgs84>
+        <lonwgs84>-2.3527908325195312</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200081</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/la-rasa-mareal-y-los-acantilados-del-flysch/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000015801_g2_rec_turismo/es_15801/15801-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015801_g2_rec_turismo/es_15801/data/15801_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015801_g2_rec_turismo/r01Index/0000015801_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015801_g2_rec_turismo/opendata/0000015801_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="19">
+        <documentname>Parque Natural Aiako Harria</documentname>
+        <documentdescription>Entre los rios Urumea y Bidasoa sobresale la imponente mole maciza de las denominadas Pennas de Ai...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca,Montes y Valles vascos,San Sebastian</marks>
+        <municipality>DONOSTIA / SAN SEBASTIaN</municipality>
+        <municipalitycode>200040; 200045; 200063; 200067; 200069</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.24645313931262,-1.8446731567382812</latitudelongitude>
+        <latwgs84>43.24645313931262</latwgs84>
+        <lonwgs84>-1.8446731567382812</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200069</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-aiako-harria/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000001941_g2_rec_turismo/es_1941/1941-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001941_g2_rec_turismo/es_1941/data/1941_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001941_g2_rec_turismo/r01Index/0000001941_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001941_g2_rec_turismo/opendata/0000001941_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="20">
+        <documentname>Parque Ecologico de Plaiaundi</documentname>
+        <documentdescription>El Parque Ecologico de Plaiaundi se encuentra emplazado en el area comprendida entre el rio Bidas...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000450002</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>IRUN</municipality>
+        <municipalitycode>200045</municipalitycode>
+        <naturetype>Futuros espacios naturales protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.34905604174283,-1.7854928970336914</latitudelongitude>
+        <latwgs84>43.34905604174283</latwgs84>
+        <lonwgs84>-1.7854928970336914</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200045</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-ecologico-de-plaiaundi/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000004923_g2_rec_turismo/es_4923/4923-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004923_g2_rec_turismo/es_4923/data/4923_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004923_g2_rec_turismo/r01Index/0000004923_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004923_g2_rec_turismo/opendata/0000004923_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="21">
+        <documentname>Parque Natural de Aralar</documentname>
+        <documentdescription>Nos hallamos en uno de los grandes macizos montannosos de la Comunidad Autonoma Vasca. Enclavado e...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ZALDIBIA</municipality>
+        <municipalitycode>200001; 200008; 200015; 200049; 200071; 200078</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.01970956326088,-2.151947021484375</latitudelongitude>
+        <latwgs84>43.01970956326088</latwgs84>
+        <lonwgs84>-2.151947021484375</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200078</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-de-aralar/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000001938_g2_rec_turismo/es_1938/1938-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001938_g2_rec_turismo/es_1938/data/1938_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001938_g2_rec_turismo/r01Index/0000001938_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001938_g2_rec_turismo/opendata/0000001938_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="22">
+        <documentname>Parque Natural de Aizkorri-Aratz</documentname>
+        <documentdescription>La sierra de Aizkorri-Aratz alberga las mas altas cumbres de la divisoria de aguas cantabro-medit...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA; GIPUZKOA</historicterritory>
+        <historicterritorycode>01; 20</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>LEINTZ-GATZAGA</municipality>
+        <municipalitycode>010009; 010013; 010053; 010061; 200013; 200025; 200026; 200034; 200051; 200059; 200068</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.00088094172989,-2.5234222412109375</latitudelongitude>
+        <latwgs84>43.00088094172989</latwgs84>
+        <lonwgs84>-2.5234222412109375</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200068</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-de-aizkorri-aratz/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000004911_g2_rec_turismo/es_4911/4911-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004911_g2_rec_turismo/es_4911/data/4911_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004911_g2_rec_turismo/r01Index/0000004911_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004911_g2_rec_turismo/opendata/0000004911_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="23">
+        <documentname>Parque Natural de Gorbeia</documentname>
+        <documentdescription>Nos hallamos en el tramo centro-occidental de los montes de la divisoria de aguas cantabro-medite...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA; BIZKAIA</historicterritory>
+        <historicterritorycode>01; 48</historicterritorycode>
+        <importance>2</importance>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>AREATZA</municipality>
+        <municipalitycode>010018; 010054; 010063; 480023; 480024; 480025; 480075; 480093</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.05785119934998,-2.75482177734375</latitudelongitude>
+        <latwgs84>43.05785119934998</latwgs84>
+        <lonwgs84>-2.75482177734375</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480093</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-de-gorbeia/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000001937_g2_rec_turismo/es_1937/1937-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001937_g2_rec_turismo/es_1937/data/1937_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001937_g2_rec_turismo/r01Index/0000001937_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001937_g2_rec_turismo/opendata/0000001937_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="24">
+        <documentname>Parque Natural de Armannon</documentname>
+        <documentdescription>Situado en el extremo occidental de Bizkaia, en el limite con Cantabria, el parque natural de Arm...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>TRUCIOS-TURTZIOZ</municipality>
+        <municipalitycode>480022; 480087</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.27720532212027,-3.2904052734375</latitudelongitude>
+        <latwgs84>43.27720532212027</latwgs84>
+        <lonwgs84>-3.2904052734375</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480087</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-de-armanon/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000015921_g2_rec_turismo/es_15921/15921-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015921_g2_rec_turismo/es_15921/data/15921_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015921_g2_rec_turismo/r01Index/0000015921_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015921_g2_rec_turismo/opendata/0000015921_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="25">
+        <documentname>Parque Natural de Pagoeta</documentname>
+        <documentdescription>El monte Pagoeta (678 m) se alza sobre los nucleos rurales de Aia y Laurgain (Gipuzkoa), y es una...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca,Montes y Valles vascos</marks>
+        <municipality>ZARAUTZ</municipality>
+        <municipalitycode>200016; 200027; 200079</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.239212683247466,-2.1482044443359882</latitudelongitude>
+        <latwgs84>43.239212683247466</latwgs84>
+        <lonwgs84>-2.1482044443359882</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200079</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-de-pagoeta/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000004922_g2_rec_turismo/es_4922/4922-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004922_g2_rec_turismo/es_4922/data/4922_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004922_g2_rec_turismo/r01Index/0000004922_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000004922_g2_rec_turismo/opendata/0000004922_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="26">
+        <documentname>Parque Natural de Izki</documentname>
+        <documentdescription>El alto valle de Izki (9.081 ha), de altitudes comprendidas entre los 700 y 800 metros, se halla ...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ARRAIA-MAEZTU</municipality>
+        <municipalitycode>010016; 010017; 010037</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.631938041062156,-2.498016357421875</latitudelongitude>
+        <latwgs84>42.631938041062156</latwgs84>
+        <lonwgs84>-2.498016357421875</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010037</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-de-izki/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000001944_g2_rec_turismo/es_1944/1944-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001944_g2_rec_turismo/es_1944/data/1944_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001944_g2_rec_turismo/r01Index/0000001944_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001944_g2_rec_turismo/opendata/0000001944_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="27">
+        <documentname>Parque Natural de Valderejo</documentname>
+        <documentdescription>Un espacioso y alto valle cercado de empinadas laderas que culminan en cantiles rocosos. Asi pued...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100550015; 0100550016; 0100550023; 0100550028</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>VALDEGOViA</municipality>
+        <municipalitycode>010055</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <qualityq>1</qualityq>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.875460907001774,-3.2292938232421875</latitudelongitude>
+        <latwgs84>42.875460907001774</latwgs84>
+        <lonwgs84>-3.2292938232421875</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010055</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-de-valderejo/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000001942_g2_rec_turismo/es_1942/1942-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001942_g2_rec_turismo/es_1942/data/1942_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001942_g2_rec_turismo/r01Index/0000001942_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001942_g2_rec_turismo/opendata/0000001942_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="28">
+        <documentname>Parque Natural de Urkiola</documentname>
+        <documentdescription>El Parque Natural de Urkiola (5.955 ha) agrupa los terrenos de mayor altitud de la Sierra de Aram...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA; BIZKAIA</historicterritory>
+        <historicterritorycode>01; 48</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ATXONDO</municipality>
+        <municipalitycode>010003; 480001; 480026; 480027; 480050; 480059; 480091</municipalitycode>
+        <naturetype>Parques Naturales</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.0533087671776,-2.54923933789064</latitudelongitude>
+        <latwgs84>43.0533087671776</latwgs84>
+        <lonwgs84>-2.54923933789064</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480091</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/parque-natural-de-urkiola/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000001943_g2_rec_turismo/es_1943/1943-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001943_g2_rec_turismo/es_1943/data/1943_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001943_g2_rec_turismo/r01Index/0000001943_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000001943_g2_rec_turismo/opendata/0000001943_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="29">
+        <documentname>Piscinas fluviales de Fresnedo</documentname>
+        <documentdescription>Las piscinas fluviales de Fresnedo se situan en la entrada de la localidad alavesa de Santa Cruz ...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100170005</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>CAMPEZO/KANPEZU</municipality>
+        <municipalitycode>010017</municipalitycode>
+        <naturetype>Rios</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>42.6762516761553,-2.37030029296875</latitudelongitude>
+        <latwgs84>42.6762516761553</latwgs84>
+        <lonwgs84>-2.37030029296875</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010017</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/piscinas-fluviales-de-fresnedo/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000008911_g1_rec_turismo/es_8911/8911-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008911_g1_rec_turismo/es_8911/data/8911_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008911_g1_rec_turismo/r01Index/0000008911_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008911_g1_rec_turismo/opendata/0000008911_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="30">
+        <documentname>Piscinas fluviales de Espejo</documentname>
+        <documentdescription>Las piscinas fluviales de Espejo se hallan en el territorio historico de alava, en el municipio d...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100550011</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>VALDEGOViA</municipality>
+        <municipalitycode>010055</municipalitycode>
+        <naturetype>Rios</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>42.809638,-3.046388</latitudelongitude>
+        <latwgs84>42.809638</latwgs84>
+        <lonwgs84>-3.046388</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010055</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/piscinas-fluviales-de-espejo/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000008904_g1_rec_turismo/es_8904/8904-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008904_g1_rec_turismo/es_8904/data/8904_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008904_g1_rec_turismo/r01Index/0000008904_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000008904_g1_rec_turismo/opendata/0000008904_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="31">
+        <documentname>Playa de Alkolea</documentname>
+        <documentdescription>Alkolea es una playa de rocas muy frecuentada por surfistas y por aficionados a la pesca submarin...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000560003</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>MUTRIKU</municipality>
+        <municipalitycode>200056</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.30762578068058,-2.3710132372955286</latitudelongitude>
+        <latwgs84>43.30762578068058</latwgs84>
+        <lonwgs84>-2.3710132372955286</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200056</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-alkolea/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000057741_g1_rec_turismo/es_57741/57741-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000057741_g1_rec_turismo/es_57741/data/57741_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000057741_g1_rec_turismo/r01Index/0000057741_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000057741_g1_rec_turismo/opendata/0000057741_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="32">
+        <documentname>Playa Santiago de Deba</documentname>
+        <documentdescription>La playa de Santiago de Deba se halla al oeste del litoral guipuzcoano, junto a la desembocadura ...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>DEBA</municipality>
+        <municipalitycode>200029</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.2983184172804,-2.354269509262167</latitudelongitude>
+        <latwgs84>43.2983184172804</latwgs84>
+        <lonwgs84>-2.354269509262167</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200029</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-santiago-de-deba/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003020_g1_rec_turismo/es_3020/3020-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003020_g1_rec_turismo/es_3020/data/3020_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003020_g1_rec_turismo/r01Index/0000003020_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003020_g1_rec_turismo/opendata/0000003020_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="33">
+        <documentname>Playa de Armintza</documentname>
+        <documentdescription>Pequenno barrio pesquero del municipio de Lemoiz, un lugar con mucho encanto donde se suceden unas...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800560002</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>LEMOIZ</municipality>
+        <municipalitycode>480056</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.43321809894,-2.898966690000634</latitudelongitude>
+        <latwgs84>43.43321809894</latwgs84>
+        <lonwgs84>-2.898966690000634</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480056</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-armintza/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000009282_g1_rec_turismo/es_9282/9282-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009282_g1_rec_turismo/es_9282/data/9282_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009282_g1_rec_turismo/r01Index/0000009282_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009282_g1_rec_turismo/opendata/0000009282_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="34">
+        <documentname>Playa de Arrigorri</documentname>
+        <documentdescription>La playa de Arrigorri esta situada en el municipio de Ondarroa, en Bizkaia.  Ademas de poder toma...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ONDARROA</municipality>
+        <municipalitycode>480073</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.32285365608519,-2.4192082803955373</latitudelongitude>
+        <latwgs84>43.32285365608519</latwgs84>
+        <lonwgs84>-2.4192082803955373</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480073</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-arrigorri/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002993_g1_rec_turismo/es_2993/2993-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002993_g1_rec_turismo/es_2993/data/2993_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002993_g1_rec_turismo/r01Index/0000002993_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002993_g1_rec_turismo/opendata/0000002993_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="35">
+        <documentname>Playa de Antilla</documentname>
+        <documentdescription>La principal playa de Orio se encuentra en un entorno excepcional, junto a la desembocadura del O...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ORIO</municipality>
+        <municipalitycode>200061</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.288723,-2.127956</latitudelongitude>
+        <latwgs84>43.288723</latwgs84>
+        <lonwgs84>-2.127956</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200061</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-antilla/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003008_g1_rec_turismo/es_3008/3008-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003008_g1_rec_turismo/es_3008/data/3008_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003008_g1_rec_turismo/r01Index/0000003008_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003008_g1_rec_turismo/opendata/0000003008_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="36">
+        <documentname>Playa de Aritxatxu</documentname>
+        <documentdescription>La playa de Aritxatxu, situada en el municipio vizcaino de Bermeo, forma una pequenna y atractiva ...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>BERMEO</municipality>
+        <municipalitycode>480017</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.428484,-2.737924</latitudelongitude>
+        <latwgs84>43.428484</latwgs84>
+        <lonwgs84>-2.737924</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480017</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-aritzatxu/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002983_g1_rec_turismo/es_2983/2983-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002983_g1_rec_turismo/es_2983/data/2983_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002983_g1_rec_turismo/r01Index/0000002983_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002983_g1_rec_turismo/opendata/0000002983_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="37">
+        <documentname>Playa de Barinatxe</documentname>
+        <documentdescription>La playa de Barinatxe, enclavada entre los municipios vizcainos de Sopela y Getxo, es conocida ta...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca,Bilbao</marks>
+        <municipality>SOPELANA</municipality>
+        <municipalitycode>480044; 480085</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.383146,-3.004942</latitudelongitude>
+        <latwgs84>43.383146</latwgs84>
+        <lonwgs84>-3.004942</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480085</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-barinatxe/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003019_g1_rec_turismo/es_3019/3019-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003019_g1_rec_turismo/es_3019/data/3019_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003019_g1_rec_turismo/r01Index/0000003019_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003019_g1_rec_turismo/opendata/0000003019_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="38">
+        <documentname>Playa de Barrika</documentname>
+        <documentdescription>La playa de Barrika, enclavada en el municipio del mismo nombre y a 25 km de Bilbao, es una playa...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>BARRIKA</municipality>
+        <municipalitycode>480014</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.40545839853304,-2.972990221309601</latitudelongitude>
+        <latwgs84>43.40545839853304</latwgs84>
+        <lonwgs84>-2.972990221309601</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480014</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-barrika/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003022_g1_rec_turismo/es_3022/3022-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003022_g1_rec_turismo/es_3022/data/3022_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003022_g1_rec_turismo/r01Index/0000003022_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003022_g1_rec_turismo/opendata/0000003022_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="39">
+        <documentname>Playa de Arrigunaga</documentname>
+        <documentdescription>La playa de Arrigunaga se encuentra en el municipio de Getxo, en Bizkaia. Ubicada bajo los acanti...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca,Bilbao</marks>
+        <municipality>GETXO</municipality>
+        <municipalitycode>480044</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.358253,-3.018707</latitudelongitude>
+        <latwgs84>43.358253</latwgs84>
+        <lonwgs84>-3.018707</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480044</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-arrigunaga/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003011_g1_rec_turismo/es_3011/3011-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003011_g1_rec_turismo/es_3011/data/3011_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003011_g1_rec_turismo/r01Index/0000003011_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003011_g1_rec_turismo/opendata/0000003011_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="40">
+        <documentname>Playa de Bakio</documentname>
+        <documentdescription>La hermosa playa de Bakio, situada en el municipio vizcaino del mismo nombre, cuenta con un largo...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>BAKIO</municipality>
+        <municipalitycode>480012</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.4302345617966,-2.80576229095459</latitudelongitude>
+        <latwgs84>43.4302345617966</latwgs84>
+        <lonwgs84>-2.80576229095459</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480012</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-bakio/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003003_g1_rec_turismo/es_3003/3003-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003003_g1_rec_turismo/es_3003/data/3003_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003003_g1_rec_turismo/r01Index/0000003003_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003003_g1_rec_turismo/opendata/0000003003_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="41">
+        <documentname>Playa de Gaztetape</documentname>
+        <documentdescription>La playa de Gaztetape se esconde al oeste del monte San Anton, mas conocido por el nombre de Rato...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>GETARIA</municipality>
+        <municipalitycode>200039</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.303655403374485,-2.206051341625198</latitudelongitude>
+        <latwgs84>43.303655403374485</latwgs84>
+        <lonwgs84>-2.206051341625198</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200039</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-gaztetape/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002992_g1_rec_turismo/es_2992/2992-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002992_g1_rec_turismo/es_2992/data/2992_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002992_g1_rec_turismo/r01Index/0000002992_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002992_g1_rec_turismo/opendata/0000002992_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="42">
+        <documentname>Playa de Gorliz</documentname>
+        <documentdescription>Sus extensas arenas y la seguridad de su banno hacen que esta playa sea preferida por las familias...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>GORLIZ</municipality>
+        <municipalitycode>480043</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <qualityq>1</qualityq>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.4183904607326,-2.94570922851563</latitudelongitude>
+        <latwgs84>43.4183904607326</latwgs84>
+        <lonwgs84>-2.94570922851563</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480043</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-gorliz/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002998_g1_rec_turismo/es_2998/2998-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002998_g1_rec_turismo/es_2998/data/2998_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002998_g1_rec_turismo/r01Index/0000002998_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002998_g1_rec_turismo/opendata/0000002998_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="43">
+        <documentname>Playa de Ea</documentname>
+        <documentdescription>La playa de Ea se halla en el municipio del mismo nombre, en la costa oriental de Bizkaia. 
+
+Al...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>EA</municipality>
+        <municipalitycode>480028</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.380135,-2.585593</latitudelongitude>
+        <latwgs84>43.380135</latwgs84>
+        <lonwgs84>-2.585593</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480028</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-ea/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000009312_g1_rec_turismo/es_9312/9312-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009312_g1_rec_turismo/es_9312/data/9312_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009312_g1_rec_turismo/r01Index/0000009312_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009312_g1_rec_turismo/opendata/0000009312_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="44">
+        <documentname>Playa de Ereaga</documentname>
+        <documentdescription>La playa de Ereaga se encuentra en el municipio de Getxo, entre el puerto viejo de Algorta y el e...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800440001</localitycode>
+        <marks>Costa Vasca,Bilbao</marks>
+        <municipality>GETXO</municipality>
+        <municipalitycode>480044</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.34189,-3.013635</latitudelongitude>
+        <latwgs84>43.34189</latwgs84>
+        <lonwgs84>-3.013635</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480044</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-ereaga/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002994_g1_rec_turismo/es_2994/2994-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002994_g1_rec_turismo/es_2994/data/2994_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002994_g1_rec_turismo/r01Index/0000002994_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002994_g1_rec_turismo/opendata/0000002994_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="45">
+        <documentname>Playa de Hondartzape</documentname>
+        <documentdescription>La playa de Hondartzape esta ubicada en el municipio vizcaino de Mundaka, a 36 km de Bilbao. La p...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>MUNDAKA</municipality>
+        <municipalitycode>480068</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.407335,-2.698322</latitudelongitude>
+        <latwgs84>43.407335</latwgs84>
+        <lonwgs84>-2.698322</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480068</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-hondartzape/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003014_g1_rec_turismo/es_3014/3014-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003014_g1_rec_turismo/es_3014/data/3014_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003014_g1_rec_turismo/r01Index/0000003014_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003014_g1_rec_turismo/opendata/0000003014_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="46">
+        <documentname>Playa de Isuntza</documentname>
+        <documentdescription>La playa de Isuntza se encuentra en el municipio de Lekeitio, al este del litoral vizcaino. Al es...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>LEKEITIO</municipality>
+        <municipalitycode>480057</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3632537512373,-2.50110626220703</latitudelongitude>
+        <latwgs84>43.3632537512373</latwgs84>
+        <lonwgs84>-2.50110626220703</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480057</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-isuntza/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002987_g1_rec_turismo/es_2987/2987-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002987_g1_rec_turismo/es_2987/data/2987_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002987_g1_rec_turismo/r01Index/0000002987_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002987_g1_rec_turismo/opendata/0000002987_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="47">
+        <documentname>Playa de Gorrondatxe (Aizkorri)</documentname>
+        <documentdescription>La cuarta playa de Getxo es quiza la menos accesible, pero la mas limpia. Conocido tambien por el...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800440003</localitycode>
+        <marks>Costa Vasca,Bilbao</marks>
+        <municipality>GETXO</municipality>
+        <municipalitycode>480044</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3791013350026,-3.02021026611328</latitudelongitude>
+        <latwgs84>43.3791013350026</latwgs84>
+        <lonwgs84>-3.02021026611328</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480044</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-gorrondatxe-aizkorri/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002988_g1_rec_turismo/es_2988/2988-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002988_g1_rec_turismo/es_2988/data/2988_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002988_g1_rec_turismo/r01Index/0000002988_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002988_g1_rec_turismo/opendata/0000002988_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="48">
+        <documentname>Playa de Hondarribia</documentname>
+        <documentdescription>La playa de Hondarribia esta ubicada en el extremo oriental del litoral guipuzcoano, concretament...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>HONDARRIBIA</municipality>
+        <municipalitycode>200036</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3797889,-1.7945024000000558</latitudelongitude>
+        <latwgs84>43.3797889</latwgs84>
+        <lonwgs84>-1.7945024000000558</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200036</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-hondarribia/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003007_g1_rec_turismo/es_3007/3007-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003007_g1_rec_turismo/es_3007/data/3007_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003007_g1_rec_turismo/r01Index/0000003007_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003007_g1_rec_turismo/opendata/0000003007_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="49">
+        <documentname>Playa de Karraspio</documentname>
+        <documentdescription>La hermosa playa de Karraspio pertenece al municipio de Mendexa, aunque practicamente se encuentr...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca,Montes y Valles vascos</marks>
+        <municipality>MENDEXA</municipality>
+        <municipalitycode>480063</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3628169481706,-2.49423980712891</latitudelongitude>
+        <latwgs84>43.3628169481706</latwgs84>
+        <lonwgs84>-2.49423980712891</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480063</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-karraspio/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003012_g1_rec_turismo/es_3012/3012-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003012_g1_rec_turismo/es_3012/data/3012_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003012_g1_rec_turismo/r01Index/0000003012_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003012_g1_rec_turismo/opendata/0000003012_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="50">
+        <documentname>Playa de Kanalape</documentname>
+        <documentdescription>La playa de Kanalape es uno de los arenales que se forman en la ria de Gernika. Esta ubicada en e...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800410002</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>GAUTEGIZ ARTEAGA</municipality>
+        <municipalitycode>480041</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.381846164937,-2.67851829528809</latitudelongitude>
+        <latwgs84>43.381846164937</latwgs84>
+        <lonwgs84>-2.67851829528809</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480041</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-kanalape/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003000_g1_rec_turismo/es_3000/3000-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003000_g1_rec_turismo/es_3000/data/3000_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003000_g1_rec_turismo/r01Index/0000003000_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003000_g1_rec_turismo/opendata/0000003000_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="51">
+        <documentname>Playa de Kanala</documentname>
+        <documentdescription>La playa de Kanala esta ubicada en el municipio vizcaino de Gautegiz-Arteaga, en la margen derech...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800410002</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>GAUTEGIZ ARTEAGA</municipality>
+        <municipalitycode>480041</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3845908706076,-2.68117904663086</latitudelongitude>
+        <latwgs84>43.3845908706076</latwgs84>
+        <lonwgs84>-2.68117904663086</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480041</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-kanala/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003006_g1_rec_turismo/es_3006/3006-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003006_g1_rec_turismo/es_3006/data/3006_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003006_g1_rec_turismo/r01Index/0000003006_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003006_g1_rec_turismo/opendata/0000003006_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="52">
+        <documentname>Playa de Itzurun</documentname>
+        <documentdescription>La playa de Itzurun forma parte de uno de los tramos mas espectaculares del litoral guipuzcoano. ...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ZUMAIA</municipality>
+        <municipalitycode>200081</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.30055372541465,-2.2604322519287052</latitudelongitude>
+        <latwgs84>43.30055372541465</latwgs84>
+        <lonwgs84>-2.2604322519287052</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200081</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-itzurun/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003021_g1_rec_turismo/es_3021/3021-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003021_g1_rec_turismo/es_3021/data/3021_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003021_g1_rec_turismo/r01Index/0000003021_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003021_g1_rec_turismo/opendata/0000003021_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="53">
+        <documentname>Playa de Laida</documentname>
+        <documentdescription>La playa de Laida pertenece al municipio vizcaino de Ibarrangelu y esta ubicada en la Reserva de ...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>IBARRANGELU</municipality>
+        <municipalitycode>480048</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.39957539567573,-2.6856207847595215</latitudelongitude>
+        <latwgs84>43.39957539567573</latwgs84>
+        <lonwgs84>-2.6856207847595215</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480048</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-laida/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002997_g1_rec_turismo/es_2997/2997-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002997_g1_rec_turismo/es_2997/data/2997_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002997_g1_rec_turismo/r01Index/0000002997_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002997_g1_rec_turismo/opendata/0000002997_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="54">
+        <documentname>Playa de Laga</documentname>
+        <documentdescription>La hermosa playa dunar de Laga, enclavada en la Reserva de la Biosfera de Urdaibai y junto al cab...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>IBARRANGELU</municipality>
+        <municipalitycode>480048</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.4090382177706,-2.65663146972656</latitudelongitude>
+        <latwgs84>43.4090382177706</latwgs84>
+        <lonwgs84>-2.65663146972656</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480048</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-laga/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002991_g1_rec_turismo/es_2991/2991-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002991_g1_rec_turismo/es_2991/data/2991_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002991_g1_rec_turismo/r01Index/0000002991_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002991_g1_rec_turismo/opendata/0000002991_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="55">
+        <documentname>Playa de La Concha</documentname>
+        <documentdescription>La incomparable playa de La Concha es una de las sennas de identidad de Donostia / San Sebastian. ...</documentdescription>
+        <accesibility>1</accesibility>
+        <accesibilityicondescription>Accesible a personas con discapacidad</accesibilityicondescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000690005</localitycode>
+        <marks>Costa Vasca,San Sebastian</marks>
+        <municipality>DONOSTIA / SAN SEBASTIaN</municipality>
+        <municipalitycode>200069</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3181840687112,-1.98646545410156</latitudelongitude>
+        <latwgs84>43.3181840687112</latwgs84>
+        <lonwgs84>-1.98646545410156</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200069</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas/playa-de-la-concha-san-sebastian/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003001_g1_rec_turismo/es_3001/3001-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003001_g1_rec_turismo/es_3001/data/3001_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003001_g1_rec_turismo/r01Index/0000003001_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003001_g1_rec_turismo/opendata/0000003001_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="56">
+        <documentname>Playa de La Arena</documentname>
+        <documentdescription>Situada entre Muskiz y Zierbena, la hermosa playa de La Arena tiene 966 metros de longitud y es u...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>; 4809130301</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ZIERBENA</municipality>
+        <municipalitycode>480071; 480913</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3490248343273,-3.11668395996094</latitudelongitude>
+        <latwgs84>43.3490248343273</latwgs84>
+        <lonwgs84>-3.11668395996094</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480913</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-la-arena/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002984_g1_rec_turismo/es_2984/2984-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002984_g1_rec_turismo/es_2984/data/2984_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002984_g1_rec_turismo/r01Index/0000002984_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002984_g1_rec_turismo/opendata/0000002984_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="57">
+        <documentname>Playa de Malkorbe</documentname>
+        <documentdescription>La playa de Malkorbe es uno de los dos arenales que tiene Getaria. Esta situada cerca del casco u...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>GETARIA</municipality>
+        <municipalitycode>200039</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.301297,-2.2021</latitudelongitude>
+        <latwgs84>43.301297</latwgs84>
+        <lonwgs84>-2.2021</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200039</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-malkorbe/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003002_g1_rec_turismo/es_3002/3002-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003002_g1_rec_turismo/es_3002/data/3002_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003002_g1_rec_turismo/r01Index/0000003002_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003002_g1_rec_turismo/opendata/0000003002_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="58">
+        <documentname>Playa de Las Arenas</documentname>
+        <documentdescription>La playa de Las Arenas se encuentra en el municipio vizcaino de Getxo, en el Abra de Bilbao, junt...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800440002</localitycode>
+        <marks>Costa Vasca,Bilbao</marks>
+        <municipality>GETXO</municipality>
+        <municipalitycode>480044</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3264264544351,-3.0177640914917</latitudelongitude>
+        <latwgs84>43.3264264544351</latwgs84>
+        <lonwgs84>-3.0177640914917</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480044</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-las-arenas/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002989_g1_rec_turismo/es_2989/2989-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002989_g1_rec_turismo/es_2989/data/2989_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002989_g1_rec_turismo/r01Index/0000002989_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002989_g1_rec_turismo/opendata/0000002989_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="59">
+        <documentname>Playa de Landa</documentname>
+        <documentdescription>Situada en el embalse de Ullibarri-Gamboa tiene 40 Ha y 500 metros de playa. El pantano al que se...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100080010</localitycode>
+        <marks>Vitoria-Gasteiz</marks>
+        <municipality>ARRAZUA-UBARRUNDIA</municipality>
+        <municipalitycode>010008</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>42.9400128416397,-2.6054306386230337</latitudelongitude>
+        <latwgs84>42.9400128416397</latwgs84>
+        <lonwgs84>-2.6054306386230337</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010008</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-landa/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000085181_g1_rec_turismo/es_85181/85181-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000085181_g1_rec_turismo/es_85181/data/85181_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000085181_g1_rec_turismo/r01Index/0000085181_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000085181_g1_rec_turismo/opendata/0000085181_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="60">
+        <documentname>Playa de Laidatxu</documentname>
+        <documentdescription>La playa de Laidatxu se halla en el municipio vizcaino de Mundaka, muy cerca del casco urbano.
+
+...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>MUNDAKA</municipality>
+        <municipalitycode>480068</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.4049851306295,-2.69937515258789</latitudelongitude>
+        <latwgs84>43.4049851306295</latwgs84>
+        <lonwgs84>-2.69937515258789</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480068</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-laidatxu/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003004_g1_rec_turismo/es_3004/3004-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003004_g1_rec_turismo/es_3004/data/3004_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003004_g1_rec_turismo/r01Index/0000003004_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003004_g1_rec_turismo/opendata/0000003004_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="61">
+        <documentname>Playa de Ondarbeltz</documentname>
+        <documentdescription>Tal y como indica su nombre en euskera, esta playa de aguas tranquilas esta compuesta de una aren...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>MUTRIKU</municipality>
+        <municipalitycode>200056</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.301412,-2.357451</latitudelongitude>
+        <latwgs84>43.301412</latwgs84>
+        <lonwgs84>-2.357451</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200056</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-ondarbeltz/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002986_g1_rec_turismo/es_2986/2986-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002986_g1_rec_turismo/es_2986/data/2986_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002986_g1_rec_turismo/r01Index/0000002986_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002986_g1_rec_turismo/opendata/0000002986_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="62">
+        <documentname>Playa de Ogeia</documentname>
+        <documentdescription>La playa de Ogeia se halla en el municipio de Ispaster, en la costa oriental de Bizkaia. Esta apa...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ISPASTER</municipality>
+        <municipalitycode>480049</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3732369638364,-2.54573822021484</latitudelongitude>
+        <latwgs84>43.3732369638364</latwgs84>
+        <lonwgs84>-2.54573822021484</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480049</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-ogella/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003027_g1_rec_turismo/es_3027/3027-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003027_g1_rec_turismo/es_3027/data/3027_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003027_g1_rec_turismo/r01Index/0000003027_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003027_g1_rec_turismo/opendata/0000003027_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="63">
+        <documentname>Playa de Muriola</documentname>
+        <documentdescription>Tambien conocida como La Cantera, esta playa nudista esta ubicada a 10 minutos del casco urbano d...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>BARRIKA</municipality>
+        <municipalitycode>480014</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.4130286847514,-2.95995712280273</latitudelongitude>
+        <latwgs84>43.4130286847514</latwgs84>
+        <lonwgs84>-2.95995712280273</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480014</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-muriola/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003010_g1_rec_turismo/es_3010/3010-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003010_g1_rec_turismo/es_3010/data/3010_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003010_g1_rec_turismo/r01Index/0000003010_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003010_g1_rec_turismo/opendata/0000003010_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="64">
+        <documentname>Playa de Mennakoz</documentname>
+        <documentdescription>Ideal para quienes busquen espacios solitarios y tranquilos, la playa salvaje de Mennakoz pertenec...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800140002</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>BARRIKA</municipality>
+        <municipalitycode>480014</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3951630640074,-2.98562049865723</latitudelongitude>
+        <latwgs84>43.3951630640074</latwgs84>
+        <lonwgs84>-2.98562049865723</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480014</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-menakoz/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000009566_g1_rec_turismo/es_9566/9566-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009566_g1_rec_turismo/es_9566/data/9566_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009566_g1_rec_turismo/r01Index/0000009566_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000009566_g1_rec_turismo/opendata/0000009566_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="65">
+        <documentname>Playa de Saturraran</documentname>
+        <documentdescription>Emplazado en el extremo occidental del litoral guipuzcoano, lindando con Bizkaia, la playa de Sat...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>MUTRIKU</municipality>
+        <municipalitycode>200056</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3218058607707,-2.41098403930664</latitudelongitude>
+        <latwgs84>43.3218058607707</latwgs84>
+        <lonwgs84>-2.41098403930664</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200056</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-saturraran/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003015_g1_rec_turismo/es_3015/3015-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003015_g1_rec_turismo/es_3015/data/3015_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003015_g1_rec_turismo/r01Index/0000003015_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003015_g1_rec_turismo/opendata/0000003015_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="66">
+        <documentname>Playa de Tonna</documentname>
+        <documentdescription>Protegida por la isla de Txatxarramendi, esta tranquila y acogedora cala se asoma a la ria de Mun...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>SUKARRIETA</municipality>
+        <municipalitycode>480076</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3910778627597,-2.69182205200195</latitudelongitude>
+        <latwgs84>43.3910778627597</latwgs84>
+        <lonwgs84>-2.69182205200195</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480076</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-tona/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002985_g1_rec_turismo/es_2985/2985-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002985_g1_rec_turismo/es_2985/data/2985_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002985_g1_rec_turismo/r01Index/0000002985_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002985_g1_rec_turismo/opendata/0000002985_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="67">
+        <documentname>Playa de Zarautz</documentname>
+        <documentdescription>La playa de Zarautz llama especialmente la atencion por su extensa longitud,   con 2.500 metros d...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ZARAUTZ</municipality>
+        <municipalitycode>200079</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.28770636426836,-2.1728876364929874</latitudelongitude>
+        <latwgs84>43.28770636426836</latwgs84>
+        <lonwgs84>-2.1728876364929874</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200079</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-zarautz/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000005282_g1_rec_turismo/es_5282/5282-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005282_g1_rec_turismo/es_5282/data/5282_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005282_g1_rec_turismo/r01Index/0000005282_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005282_g1_rec_turismo/opendata/0000005282_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="68">
+        <documentname>Playa de la Isla de Santa Clara</documentname>
+        <documentdescription>Este pequenno arenal se encuentra en el costado del embarcadero de la Isla de Santa Clara, en el c...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000690005</localitycode>
+        <marks>Costa Vasca,San Sebastian</marks>
+        <municipality>DONOSTIA / SAN SEBASTIaN</municipality>
+        <municipalitycode>200069</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.32071050956413,-1.9996527338684018</latitudelongitude>
+        <latwgs84>43.32071050956413</latwgs84>
+        <lonwgs84>-1.9996527338684018</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200069</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-la-isla-de-santa-clara/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000056581_g1_rec_turismo/es_56581/56581-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000056581_g1_rec_turismo/es_56581/data/56581_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000056581_g1_rec_turismo/r01Index/0000056581_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000056581_g1_rec_turismo/opendata/0000056581_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="69">
+        <documentname>Playa de Ondarreta</documentname>
+        <documentdescription>Situada en el extremo oeste de la capital donostiarra, al abrigo del monte Igeldo y frente a la i...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000690005</localitycode>
+        <marks>Costa Vasca,San Sebastian</marks>
+        <municipality>DONOSTIA / SAN SEBASTIaN</municipality>
+        <municipalitycode>200069</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.317184915667,-2.00277328491211</latitudelongitude>
+        <latwgs84>43.317184915667</latwgs84>
+        <lonwgs84>-2.00277328491211</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200069</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-ondarreta/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002990_g1_rec_turismo/es_2990/2990-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002990_g1_rec_turismo/es_2990/data/2990_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002990_g1_rec_turismo/r01Index/0000002990_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002990_g1_rec_turismo/opendata/0000002990_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="70">
+        <documentname>Playa de Plentzia</documentname>
+        <documentdescription>Contigua a la playa de Gorliz, es uno de los arenales mas frecuentados de la costa vizcaina. La p...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>PLENTZIA</municipality>
+        <municipalitycode>480077</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.4112828877988,-2.94708251953125</latitudelongitude>
+        <latwgs84>43.4112828877988</latwgs84>
+        <lonwgs84>-2.94708251953125</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480077</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-plentzia/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003024_g1_rec_turismo/es_3024/3024-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003024_g1_rec_turismo/es_3024/data/3024_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003024_g1_rec_turismo/r01Index/0000003024_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003024_g1_rec_turismo/opendata/0000003024_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="71">
+        <documentname>Playa de San Antonio</documentname>
+        <documentdescription>La playa de San Antonio se encuentra entre las localidades de Busturia y Sukarrieta, en la margen...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>SUKARRIETA</municipality>
+        <municipalitycode>480021; 480076</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.3865245658954,-2.68916130065918</latitudelongitude>
+        <latwgs84>43.3865245658954</latwgs84>
+        <lonwgs84>-2.68916130065918</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480076</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-san-antonio/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003025_g1_rec_turismo/es_3025/3025-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003025_g1_rec_turismo/es_3025/data/3025_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003025_g1_rec_turismo/r01Index/0000003025_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003025_g1_rec_turismo/opendata/0000003025_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="72">
+        <documentname>Playa de Santiago</documentname>
+        <documentdescription>La playa de Santiago esta situada en las afueras de Zumaia, entre las marismas de la desembocadur...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ZUMAIA</municipality>
+        <municipalitycode>200081</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.30194579605323,-2.2511672973632812</latitudelongitude>
+        <latwgs84>43.30194579605323</latwgs84>
+        <lonwgs84>-2.2511672973632812</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200081</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-santiago/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003016_g1_rec_turismo/es_3016/3016-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003016_g1_rec_turismo/es_3016/data/3016_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003016_g1_rec_turismo/r01Index/0000003016_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003016_g1_rec_turismo/opendata/0000003016_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="73">
+        <documentname>Reserva de la Biosfera de Urdaibai</documentname>
+        <documentdescription>Enclavada en un remanso del Golfo de Bizkaia, la Reserva de la Biosfera de Urdaibai (23.000 Ha) e...</documentdescription>
+        <accesibility>1</accesibility>
+        <accesibilityicondescription>Accesible a personas con discapacidad</accesibilityicondescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <importance>1</importance>
+        <marks>Costa Vasca,Montes y Valles vascos</marks>
+        <municipality>ARRATZU</municipality>
+        <municipalitycode>480003; 480007; 480010; 480017; 480021; 480031; 480033; 480041; 480046; 480048; 480062; 480066; 480067; 480068; 480076; 480079; 480906; 480907; 480908; 480909; 480911; 480914</municipalitycode>
+        <naturetype>Reservas de la biosfera</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.447466705736836,-2.7851200103759766</latitudelongitude>
+        <latwgs84>43.447466705736836</latwgs84>
+        <lonwgs84>-2.7851200103759766</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480914</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/top10/espacios-naturales/reserva-de-la-biosfera-de-urdaibai/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000005161_g2_rec_turismo/es_5161/5161-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005161_g2_rec_turismo/es_5161/data/5161_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005161_g2_rec_turismo/r01Index/0000005161_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000005161_g2_rec_turismo/opendata/0000005161_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="74">
+        <documentname>Salburua</documentname>
+        <documentdescription>Salburua es una zona humeda formada por varias lagunas restauradas rodeadas de prados humedos, ch...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100590063</localitycode>
+        <marks>Vitoria-Gasteiz</marks>
+        <municipality>VITORIA-GASTEIZ</municipality>
+        <municipalitycode>010059</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.85679220924235,-2.640333209448272</latitudelongitude>
+        <latwgs84>42.85679220924235</latwgs84>
+        <lonwgs84>-2.640333209448272</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010059</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-en-salburua/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082821_g2_rec_turismo/es_82821/82821-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082821_g2_rec_turismo/es_82821/data/82821_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082821_g2_rec_turismo/r01Index/0000082821_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082821_g2_rec_turismo/opendata/0000082821_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="75">
+        <documentname>Sierra Salvada</documentname>
+        <documentdescription>En el noroeste de alava, Sierra Salvada se eleva como una formidable muralla sobre los valles ala...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA; BIZKAIA</historicterritory>
+        <historicterritorycode>01; 48</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>URDUnnA-ORDUnnA</municipality>
+        <municipalitycode>010002; 480074</municipalitycode>
+        <naturetype>Futuros espacios naturales protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.0202778,-3.114444400000025</latitudelongitude>
+        <latwgs84>43.0202778</latwgs84>
+        <lonwgs84>-3.114444400000025</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480074</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/siera-salvada/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000077481_g2_rec_turismo/es_77481/77481-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000077481_g2_rec_turismo/es_77481/data/77481_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000077481_g2_rec_turismo/r01Index/0000077481_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000077481_g2_rec_turismo/opendata/0000077481_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="76">
+        <documentname>Sierra Salvada</documentname>
+        <documentdescription>Sobre las bien conservadas campinnas de los fondos de valle, habitat de especies como el alcaudon ...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA; BIZKAIA</historicterritory>
+        <historicterritorycode>01; 48</historicterritorycode>
+        <localitycode>0100020002; 4800740005</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>URDUnnA-ORDUnnA</municipality>
+        <municipalitycode>010002; 480074</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.994729007982755,-3.010125160217285</latitudelongitude>
+        <latwgs84>42.994729007982755</latwgs84>
+        <lonwgs84>-3.010125160217285</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480074</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-euskadi-sierra-salvada/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082782_g2_rec_turismo/es_82782/82782-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082782_g2_rec_turismo/es_82782/data/82782_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082782_g2_rec_turismo/r01Index/0000082782_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082782_g2_rec_turismo/opendata/0000082782_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="77">
+        <documentname>Playa de la Zurriola</documentname>
+        <documentdescription>La playa de la Zurriola se halla en el barrio donostiarra de Gros, bajo la atenta mirada del Pala...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000690005</localitycode>
+        <marks>Costa Vasca,San Sebastian</marks>
+        <municipality>DONOSTIA / SAN SEBASTIaN</municipality>
+        <municipalitycode>200069</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.327175706778,-1.97359085083008</latitudelongitude>
+        <latwgs84>43.327175706778</latwgs84>
+        <lonwgs84>-1.97359085083008</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200069</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-la-zurriola/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000002999_g1_rec_turismo/es_2999/2999-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002999_g1_rec_turismo/es_2999/data/2999_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002999_g1_rec_turismo/r01Index/0000002999_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000002999_g1_rec_turismo/opendata/0000002999_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="78">
+        <documentname>Playa del Puerto (Mutriku)</documentname>
+        <documentdescription>Tal y como su propio nombre indica, esta pequenna playa urbana se situa junto al puerto de Mutriku...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>MUTRIKU</municipality>
+        <municipalitycode>200056</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.310945042006956,-2.380482422584464</latitudelongitude>
+        <latwgs84>43.310945042006956</latwgs84>
+        <lonwgs84>-2.380482422584464</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200056</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-del-puerto-mutriku/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003009_g1_rec_turismo/es_3009/3009-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003009_g1_rec_turismo/es_3009/data/3009_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003009_g1_rec_turismo/r01Index/0000003009_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003009_g1_rec_turismo/opendata/0000003009_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="79">
+        <documentname>Playas de Arrietara y Atxabiribil</documentname>
+        <documentdescription>Las amplias y tranquilas playas de Arrietara y Atxabiribil, en Sopela, comparten arena, aunque no...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <marks>Costa Vasca</marks>
+        <municipality>SOPELANA</municipality>
+        <municipalitycode>480085</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.389749,-2.992836</latitudelongitude>
+        <latwgs84>43.389749</latwgs84>
+        <lonwgs84>-2.992836</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480085</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playas-de-arrietara-y-atxabiribil/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003005_g1_rec_turismo/es_3005/3005-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003005_g1_rec_turismo/es_3005/data/3005_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003005_g1_rec_turismo/r01Index/0000003005_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003005_g1_rec_turismo/opendata/0000003005_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="80">
+        <documentname>Playas de Garaio</documentname>
+        <documentdescription>En Euskadi no es imprescindible acercarse al mar para disfrutar de magnificas playas. A unos 15 k...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <marks>Vitoria-Gasteiz</marks>
+        <municipality>ELBURGO/BURGELU</municipality>
+        <municipalitycode>010013; 010021</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>42.91171889064962,-2.5405827280517315</latitudelongitude>
+        <latwgs84>42.91171889064962</latwgs84>
+        <lonwgs84>-2.5405827280517315</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010021</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/playa-de-garaio/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000085221_g1_rec_turismo/es_85221/85221-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000085221_g1_rec_turismo/es_85221/data/85221_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000085221_g1_rec_turismo/r01Index/0000085221_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000085221_g1_rec_turismo/opendata/0000085221_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="81">
+        <documentname>Urdaibai</documentname>
+        <documentdescription>El estuario de Urdaibai en la desembocadura del rio Oca es, atendiendo a su extension y grado de ...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4800010001</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ABADInnO</municipality>
+        <municipalitycode>480001</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.34689731959007,-2.656924326269518</latitudelongitude>
+        <latwgs84>43.34689731959007</latwgs84>
+        <lonwgs84>-2.656924326269518</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480001</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-euskadi-urdaibai/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082781_g2_rec_turismo/es_82781/82781-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082781_g2_rec_turismo/es_82781/data/82781_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082781_g2_rec_turismo/r01Index/0000082781_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082781_g2_rec_turismo/opendata/0000082781_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="82">
+        <documentname>Txingudi</documentname>
+        <documentdescription>En su reducida extension, Txingudi refleja las caracteristicas geograficas que conceden importanc...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000450002</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>IRUN</municipality>
+        <municipalitycode>200045</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.34702580637897,-1.7931770185851974</latitudelongitude>
+        <latwgs84>43.34702580637897</latwgs84>
+        <lonwgs84>-1.7931770185851974</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200045</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-euskadi-txingudi/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082761_g2_rec_turismo/es_82761/82761-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082761_g2_rec_turismo/es_82761/data/82761_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082761_g2_rec_turismo/r01Index/0000082761_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082761_g2_rec_turismo/opendata/0000082761_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="83">
+        <documentname>Zierbena-Puerto</documentname>
+        <documentdescription>Situada en la costa occidental de Bizkaia, esta playa artificial de tan solo 100 metros de longit...</documentdescription>
+        <general>1</general>
+        <historicterritory>BIZKAIA</historicterritory>
+        <historicterritorycode>48</historicterritorycode>
+        <localitycode>4809130304</localitycode>
+        <marks>Costa Vasca</marks>
+        <municipality>ZIERBENA</municipality>
+        <municipalitycode>480913</municipalitycode>
+        <naturetype>Playas</naturetype>
+        <templatetype>Playas, pantanos y rios</templatetype>
+        <latitudelongitude>43.350007,-3.077422</latitudelongitude>
+        <latwgs84>43.350007</latwgs84>
+        <lonwgs84>-3.077422</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>48</territorycode>
+        <territory>BIZKAIA</territory>
+        <municipalitycode>480913</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/playas-embalses-rios/zierbena-puerto/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000003023_g1_rec_turismo/es_3023/3023-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003023_g1_rec_turismo/es_3023/data/3023_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003023_g1_rec_turismo/r01Index/0000003023_g1_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000003023_g1_rec_turismo/opendata/0000003023_g1_rec_turismo.zip</zipfile>
+    </row>
+    <row num="84">
+        <documentname>Valderejo</documentname>
+        <documentdescription>Valderejo es un area rural encajada dentro de una amplia depresion y rodeada de elevados escarpes...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100550016</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>VALDEGOViA</municipality>
+        <municipalitycode>010055</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.87517825461724,-3.2302409687865747</latitudelongitude>
+        <latwgs84>42.87517825461724</latwgs84>
+        <lonwgs84>-3.2302409687865747</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010055</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-en-parque-valderejo/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082801_g2_rec_turismo/es_82801/82801-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082801_g2_rec_turismo/es_82801/data/82801_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082801_g2_rec_turismo/r01Index/0000082801_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082801_g2_rec_turismo/opendata/0000082801_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="85">
+        <documentname>Sierras Meridionales de alava</documentname>
+        <documentdescription>La alineacion montannosa de las sierras de Tolonno, Cantabria y Codes se extiende de oeste a este e...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <localitycode>0100370007</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>ARRAIA-MAEZTU</municipality>
+        <municipalitycode>010037</municipalitycode>
+        <naturetype>Jardines Botanicos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.6986922096837,-2.433083188885462</latitudelongitude>
+        <latwgs84>42.6986922096837</latwgs84>
+        <lonwgs84>-2.433083188885462</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010037</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/birding-en-sierras-meridionales-de-alava/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000082901_g2_rec_turismo/es_82901/82901-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082901_g2_rec_turismo/es_82901/data/82901_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082901_g2_rec_turismo/r01Index/0000082901_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000082901_g2_rec_turismo/opendata/0000082901_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="86">
+        <documentname>Sierra de Entzia</documentname>
+        <documentdescription>Los montes de la sierra de Entzia son la continuacion occidental de la navarra sierra de Urbasa. ...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>HARANA/VALLE DE ARANA</municipality>
+        <municipalitycode>010009; 010037; 010051; 010053; 010056</municipalitycode>
+        <naturetype>Futuros espacios naturales protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.855329727246435,-2.390899658203125</latitudelongitude>
+        <latwgs84>42.855329727246435</latwgs84>
+        <lonwgs84>-2.390899658203125</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010056</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/sierra-de-entzia/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000015942_g2_rec_turismo/es_15942/15942-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015942_g2_rec_turismo/es_15942/data/15942_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015942_g2_rec_turismo/r01Index/0000015942_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000015942_g2_rec_turismo/opendata/0000015942_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="87">
+        <documentname>Txingudi</documentname>
+        <documentdescription>En su reducida extension, Txingudi refleja las caracteristicas geograficas que conceden importanc...</documentdescription>
+        <general>1</general>
+        <historicterritory>GIPUZKOA</historicterritory>
+        <historicterritorycode>20</historicterritorycode>
+        <localitycode>2000360004; 2000450002</localitycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>IRUN</municipality>
+        <municipalitycode>200036; 200045</municipalitycode>
+        <naturetype>Futuros espacios naturales protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>43.3385827,-1.7950193000000354</latitudelongitude>
+        <latwgs84>43.3385827</latwgs84>
+        <lonwgs84>-1.7950193000000354</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>20</territorycode>
+        <territory>GIPUZKOA</territory>
+        <municipalitycode>200045</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/txingudi/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000078181_g2_rec_turismo/es_78181/78181-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000078181_g2_rec_turismo/es_78181/data/78181_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000078181_g2_rec_turismo/r01Index/0000078181_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000078181_g2_rec_turismo/opendata/0000078181_g2_rec_turismo.zip</zipfile>
+    </row>
+    <row num="88">
+        <documentname>Sierras meridionales de alava</documentname>
+        <documentdescription>La alineacion montannosa de las sierras de Tolonno, Cantabria y Codes se extiende de este a oeste e...</documentdescription>
+        <general>1</general>
+        <historicterritory>ALAVA</historicterritory>
+        <historicterritorycode>01</historicterritorycode>
+        <marks>Montes y Valles vascos</marks>
+        <municipality>KRIPAN</municipality>
+        <municipalitycode>010016; 010017; 010019</municipalitycode>
+        <naturetype>Biotopos protegidos</naturetype>
+        <templatetype>Espacios Naturales</templatetype>
+        <latitudelongitude>42.65294346295345,-2.5324099660156207</latitudelongitude>
+        <latwgs84>42.65294346295345</latwgs84>
+        <lonwgs84>-2.5324099660156207</lonwgs84>
+        <countrycode>108</countrycode>
+        <country>Espanna</country>
+        <territorycode>01</territorycode>
+        <territory>ALAVA</territory>
+        <municipalitycode>010019</municipalitycode>
+        <friendlyurl>http://opendata.euskadi.eus/catalogo/-/es/espacios-naturales/sierras-meridionales-alava/</friendlyurl>
+        <physicalurl>http://opendata.euskadi.eus/catalogo/contenidos/g_naturaleza/0000077521_g2_rec_turismo/es_77521/77521-ficha2.html</physicalurl>
+        <dataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000077521_g2_rec_turismo/es_77521/data/77521_openData.xml</dataxml>
+        <metadataxml>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000077521_g2_rec_turismo/r01Index/0000077521_g2_rec_turismo-idxContent.xml</metadataxml>
+        <zipfile>http://opendata.euskadi.eus/contenidos/g_naturaleza/0000077521_g2_rec_turismo/opendata/0000077521_g2_rec_turismo.zip</zipfile>
+    </row>
+</rows>
